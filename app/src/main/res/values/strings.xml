@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfoPeliculas</string>
+    <string name="ckSciFi">Sci-Fi</string>
+    <string name="ckThriller">Thriller</string>
+    <string name="ckHumour">Humor</string>
+    <string name="ckChildren">Infantil</string>
+    <string name="ckHorror">Terror</string>
+    <string name="ckAnimation">Animación</string>
+    <string name="ckDrama">Drama</string>
+</resources>
